@@ -1,0 +1,19 @@
+{
+  "name": "react-native-play-licensing",
+  "version": "1.0.0",
+  "description": "React Native library for verifying Google Play license",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadsmith/react-native-play-licensing.git"
+  },
+  "author": {
+    "name": "Chad Smith",
+    "email": "chad@developer.email"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chadsmith/react-native-play-licensing/issues"
+  },
+  "homepage": "https://github.com/chadsmith/react-native-play-licensing#readme"
+}
