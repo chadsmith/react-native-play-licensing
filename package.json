@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/chadsmith/react-native-play-licensing/issues"
   },
-  "homepage": "https://github.com/chadsmith/react-native-play-licensing#readme"
+  "homepage": "https://github.com/chadsmith/react-native-play-licensing#readme",
+  "keywords": [
+    "react-native",
+    "android",
+    "google play",
+    "licensing"
+  ]
 }
